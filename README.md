@@ -142,3 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Inspired by the Glassmorphism design trend.
+- what is written in readme, all thanks to chatGPT.
