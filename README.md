@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="./glass.png" alt="Glassmorphism">
+  <img src="/glass.png" alt="Glassmorphism">
 </p>
 
 # Tailwind Glassmorphism
 
 [![npm](https://img.shields.io/npm/v/tailwind-glassmorphism)](https://www.npmjs.com/package/tailwind-glassmorphism)
-[![GitHub license](https://img.shields.io/github/license/yourusername/tailwind-glassmorphism)](https://github.com/AtharvaMistry/tailwind-classes)
+[![GitHub license](https://github.com/AtharvaMistry/tailwind-classes)](https://github.com/AtharvaMistry/tailwind-classes)
 
 A customizable Tailwind CSS utility for effortlessly adding Glassmorphism design effects to your web projects.
 
@@ -70,7 +70,6 @@ npm install tailwind-glassmorphism
 
    ```jsx
    import React from 'react';
-   import './YourStyles.css'; // Import your Tailwind CSS
 
    const App = () => {
      return (
