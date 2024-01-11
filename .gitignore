@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+dist/
+output.css
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# npm package files
+package-lock.json
